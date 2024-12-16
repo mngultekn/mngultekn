@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Gültekin</h1>
+<h1 align="center">Hi, I'm Muhammed Gültekin</h1>
 <h3 align="center">Computer Programing Student at Eskişehir Osmangazi University and Aspiring Front-end Developer</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, Python and C#**
